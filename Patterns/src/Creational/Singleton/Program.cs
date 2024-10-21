@@ -52,5 +52,3 @@ public sealed class LoggerSave1
         Console.WriteLine(message);
     }
 }
-
-
